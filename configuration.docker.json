@@ -1,24 +1,24 @@
 {
-    "token": "",
-    "prefix": "?",
-
-    "playlistLimit": "15", 
-    "sponsorblock": true,  
- 
-    "spotifyClientId": "",
-    "spotifyClientSecret": "",
+    "token": "MTA2NjMyNzUwODExNjU4MjQ0MQ.GLfeNU.04gol3DY7uYF2vOZDjLfDHgg69ixJfKH2aSV7g",
+    "prefix": "m!",
     
+    "playlistLimit": "35",
+    "sponsorblock": true,
+    
+    "spotifyClientId": "3887152b7c08479c834db064db0c4367",
+    "spotifyClientSecret": "e9ccc0b9cbac411c8418b7db9c8d4e57",
+
     "dblToken": "",
 
-    "lavalinkHost": "lavalink",
+    "lavalinkHost": "http://localhost",
     "lavalinkPort": 2333,
-    "lavalinkRestUri": "http://lavalink:2333",
+    "lavalinkRestUri": "http://localhost:2333",
     "lavalinkPassword": "youshallnotpass",
     "lavalinkIdentifier": "BetterMusic",
     "lavalinkRegion": "us_central",
-  
-    "MySQLHost": "db",
-    "MySQLLogin": "root",
-    "MySQLPasword": "securePassword123",
-    "MySQLDatabase": "BetterMusic"
+
+    "MySQLHost": "",
+    "MySQLLogin": "",
+    "MySQLPasword": "",
+    "MySQLDatabase": ""
 }
